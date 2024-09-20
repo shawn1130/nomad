@@ -40,5 +40,5 @@ button {
 .DialButton_btnSvgGroup:hover .DialButton_circle {
   stroke: #333333 !important;
   stroke-width: 7 !important;
-  fill: transparent !important;
+  fill: #fed609 !important;
 }
