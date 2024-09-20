@@ -33,3 +33,7 @@ button {
   font-family: "uber move text", sans-serif;
 }
 
+.RcIconButton-contained {
+  background-color: brown;
+}
+
