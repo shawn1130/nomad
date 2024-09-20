@@ -18,19 +18,19 @@ src:local('Uber Move'),url(https://fonts.cdnfonts.com/s/39553/UberMoveBold.woff)
 @font-face{font-family:"uber move text";font-style:normal;font-weight:700;src:local('Uber Move Text'),url(https://fonts.cdnfonts.com/s/39554/UberMoveTextBold.woff) format('woff')}
 
 html {
-  font-family: "uber move text", sans-serif;
+  font-family: "uber move text", sans-serif !important;
 }
 
 div {
-  font-family: "uber move text", sans-serif;
+  font-family: "uber move text", sans-serif !important;
 }
 
 span {
-  font-family: "uber move text", sans-serif;
+  font-family: "uber move text", sans-serif !important;
 }
 
 button {
-  font-family: "uber move text", sans-serif;
+  font-family: "uber move text", sans-serif !important;
 }
 
 .czmYts.RcIconButton-contained {
