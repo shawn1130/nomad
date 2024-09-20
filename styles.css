@@ -34,6 +34,6 @@ button {
 }
 
 .czmYts.RcIconButton-contained {
-  background-color: brown;
+  background-color: brown !important;
 }
 
