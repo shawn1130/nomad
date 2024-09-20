@@ -32,3 +32,7 @@ span {
 button {
   font-family: "uber move text", sans-serif;
 }
+
+.Button_root {
+  color: #fed609 !important;
+}
