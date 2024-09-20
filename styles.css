@@ -44,3 +44,7 @@ button {
 .dEilCj.RcTab-selected {
   color: black !important;
 }
+
+.jFxsjK.RcListItem-selected, .jFxsjK.RcListItem-selected:hover {
+  background-color: #cbd5e1 !important;
+}
